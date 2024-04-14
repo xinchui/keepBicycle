@@ -7,3 +7,5 @@
 “accessible” : false -> "accessible" : true    改完之后可以进入课程了
 
 "freeContinuable":false、"followingContinuable":false、"limitedFree":false这三个我也都改成true了，可能有效果吧
+
+暂时还没什么办法开始课程，进入课程倒计时结束之后就会直接崩溃
